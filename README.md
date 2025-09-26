@@ -109,13 +109,10 @@ A sophisticated language learning application that combines AI-powered text conv
 
 ## Supported Languages
 
-- **French**: Marie Dubois (Café Owner)
-- **Spanish**: Carlos Rodriguez (Football Fan)
-- **German**: Hans Mueller (Tech Engineer)
-- **Japanese**: Hiroshi Tanaka (Office Worker)
-- **English**: Emma Thompson (Tea Party Host)
-- **Chinese**: Li Wei (Tea Master)
-- **Custom**: Create your own characters
+- **English**: Koto-chan (Android Talk Assistant)
+- **Japanese**: Yuki (Convinience Store Clerk)
+- **French**: Marie (Café Owner)
+- **Spanish**: Carlos (Taxi Driver)
 
 ## Voice Assistant Features
 
@@ -160,7 +157,6 @@ Language-Conversation-/
 ### Key Components
 
 #### Voice Widget (`components/voice-widget.tsx`)
-- Integrates Vapi SDK for voice interactions
 - Manages call state and controls
 - Displays real-time transcripts
 - Handles microphone permissions
@@ -204,14 +200,5 @@ Language-Conversation-/
 ## License
 
 This project is open source and available under the MIT License.
-
-## Support
-
-For issues related to:
-- **Voice Assistant**: Check Vapi documentation
-- **Curriculum Agent**: See curriculum_agent/README.md
-- **General App**: Open an issue in the repository
-
----
 
 **Happy Language Learning! 🎙️🗣️**
