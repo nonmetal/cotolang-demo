@@ -12,7 +12,6 @@ A sophisticated language learning application that combines AI-powered text conv
 
 ### 🎙️ Voice Assistant Integration
 - **Real-time Voice Conversations**: Speak naturally with AI language partners
-- **Vapi Integration**: Powered by Vapi's advanced voice AI technology
 - **Multi-language Support**: Voice recognition and synthesis in multiple languages
 - **Call Controls**: Start, end, mute, and manage voice calls seamlessly
 
@@ -21,23 +20,6 @@ A sophisticated language learning application that combines AI-powered text conv
 - **Real-world Scenarios**: Cafe orders, hotel check-ins, shopping experiences
 - **Progressive Difficulty**: Adapts to your learning level
 - **Cultural Context**: Learn about customs and traditions
-
-## Voice Assistant Setup
-
-### Vapi Configuration
-The application uses Vapi for voice interactions. The following credentials are configured:
-
-```javascript
-const assistant = "34d415aa-e3e3-4f23-aaa4-45c0ab668188"
-const apiKey = "9226339a-8e31-44a7-a53d-a82c5cdc12fc"
-```
-
-### Voice Features
-- **Start Voice Call**: Click the phone button to begin a voice conversation
-- **Real-time Transcription**: See your speech converted to text in real-time
-- **AI Voice Responses**: Hear natural-sounding responses from your language partner
-- **Mute/Unmute**: Control your microphone during calls
-- **Call Management**: Start and end calls with simple controls
 
 ## Getting Started
 
